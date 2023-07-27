@@ -1,0 +1,56 @@
+LIFE GUN
+~~~~~~~~~~~
+
+Premise:
+You weild a gun that animates whatever you shoot, giving it life. 
+Those given life will (probably?) follow your command.
+Your goal is to bring a dead world to life.
+
+Controls:
+Move, jump, run, crouch?
+One firing option, result varies on what is hit and the power of the gun. Simple as that.
+Right click held to point, left click when pointing to select follower and/or command follower(s).
+There should be no (or extremely minimal) UI, since the controls and gameplay should be very basic and intuitive
+
+Projected lore ideas:
+- You are the last (or one of the last) survivors on a dying planet, a scientist desperately trying to create a tool to revive the world.
+- You are a wanderer from another planet with advanced life force technology, with some motive:
+	+ Your ship is alive, but died in a crash landing. You need to bring the land to life to collect enough life force to revive your ship.
+	+ You want to spread life as a benevolent stranger
+	+ You want to test the device or experiment on the planet out of curiosity
+	+ You want to play God
+	+ You are bored
+	+ Some other reason
+	This motive could also be left to the player to decide, maybe even only hinted to by dialogue options presented to the player as to why they are there.
+
+- Lore could be surface level and fun, or could run deep and include environmental storytelling
+- World is long dead and few (if any) survivors exist
+
+Projected Climax/Main Conflict Ideas:
+- The planet is a lost cause and your efforts are combatted with disasters and deadly atmosphere (threats should not be living entities)
+- Some person or entity wants to stop you bringing life to the planet.
+- Some things do not wish to be alive, or become hostile when given life.
+
+Gameplay Loop:
+You shoot whatever you can to give it life.
+Your gun increases in power (given some mechanic), allowing it to bring life to more larger, powerful things, culminating in the planet itself being shot alive.
+Those given life can be commanded around to attack other things, embuing them with its power (rock eats rock, gets bigger; rock attacks fire, becomes flaming rock).
+This allows a lot of open ended play to what things can be combined, but might be hard to implement.
+You can choose between giving life to a lot of basic things, or having your followers absorb other things to become stronger.
+
+Objects:
+Tier 1:
+- Rock
+Tier 2:
+- Fire
+- Small spots of land, which creates sprouts
+- Sprouts
+
+Progression:
+Player starts with a tiny bit of time to take in the environment and familiarize themselves (hmm its barren with some rocks)
+Player finds or somehow acquires life gun, and nearby in view there is a conspicuous rock 
+	[painted with an X or set up specially, maybe with some diagrams or drawings of the gun shooting a rock and it coming to life?] 
+	(looks like a target, guess I'll try out this gun)
+Rock comes to life (wow I guess thats what it does!) 
+Player moves and rock follows (it seems to be partial to me)
+Player is told how to point and notices that the rock goes where you point

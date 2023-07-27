@@ -1,0 +1,33 @@
+Phase 1:
+X First person controls and view
+X Rock object
+X Gun that makes rock object alive
+X Alive rock follows player (doesnt need animation yet)
+
+Phase 2:
+X Rock and face textures
+- Move command
+- Rock moves on command, rock activity states
+- Rock can absorb other rocks
+- Rock grows and changes some attribute when absorbing+
+- Basic testing level with slopes and such
+
+Phase 3: 
+- Gun upgrade mechanic
+- Tier 2 gun can make patches of grass with sprouts; this can be described as a separate ability of the gun
+- Sprouts can be shot alive and behave similar to rocks
+- Sprouts eat sprouts to grow
+- Start figuring out what makes different objects unique (ie whats the point of a flaming rock or a rock plant); 
+
+Phase 4:
+- Trails behind bullet / make shot look nice
+- Effect to discern between dead and live things (some glow or something?)
+- Effect when hitting an object and creating life (burst of life)
+- Shooting effect from gun and recoil
+- Fire effect as object and shootable entity
+
+Phase 5:
+- Gun model
+- Sprout model
+- Grass patch model/texture/effect
+
